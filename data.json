@@ -1,30 +1,16 @@
 {
-    "karaoke": [
-        {
-            "name": "Bring me to life"
-        },
-        {
-            "name": "Is this love"
-        },
-        {
-            "name": "Numb"
-        },
-        {
-            "name": "Iris"
-        },
-        {
-            "name": "Riptide"
-        }
-    ],
-    "st00dola": [
-        {
-            "name": "Ale jazz"
-        },
-        {
-            "name": "Aniolom szepnij to"
-        },
-        {
-            "name": "Ballada znad rzeki"
-        }
-    ]
+      "karaoke": {
+        name: "Karaoke",
+        time: 30,
+        icon: "mic-external-on",
+        color: "#ff53f1",
+        items: ["Bring me to life", "Is this love", "Numb", "Iris", "Riptide"],
+      },
+    "100dola": {
+        name: "100doła",
+        time: 30,
+        icon: "home-filled",
+        color: "#FFD700",
+        items: ["Ale jazz", "Aniolom szepnij to", "Ballada znad rzeki"],
+      },
 }
