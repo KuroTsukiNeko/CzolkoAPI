@@ -1,16 +1,26 @@
 {
-      "karaoke": {
-        name: "Karaoke",
-        time: 30,
-        icon: "mic-external-on",
-        color: "#ff53f1",
-        items: ["Bring me to life", "Is this love", "Numb", "Iris", "Riptide"],
-      },
+    "karaoke": {
+        "name": "Karaoke",
+        "time": 30,
+        "icon": "mic-external-on",
+        "color": "#ff53f1",
+        "items": [
+            "Bring me to life",
+            "Is this love",
+            "Numb",
+            "Iris",
+            "Riptide"
+        ]
+    },
     "100dola": {
-        name: "100doła",
-        time: 30,
-        icon: "home-filled",
-        color: "#FFD700",
-        items: ["Ale jazz", "Aniolom szepnij to", "Ballada znad rzeki"],
-      },
+        "name": "100doła",
+        "time": 30,
+        "icon": "home-filled",
+        "color": "#FFD700",
+        "items": [
+            "Ale jazz",
+            "Aniolom szepnij to",
+            "Ballada znad rzeki"
+        ]
+    }
 }
